@@ -1,2 +1,3 @@
 # excel-challenge
-Class Activities
+Class Activities for week 1
+
